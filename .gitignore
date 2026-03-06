@@ -1,0 +1,16 @@
+# Created by the GitHub Assistant
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore build directory
+/build/
+
+# Ignore coverage directory
+/coverage/
